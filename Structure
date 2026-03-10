@@ -1,0 +1,17 @@
+customer-churn-sql-analysis
+│
+├── README.md
+│
+├── data
+│   └── churn_dataset.csv
+│
+├── sql
+│   ├── 01_create_tables.sql
+│   ├── 02_insert_data.sql
+│   └── 03_churn_analysis_queries.sql
+│
+├── dashboard
+│   └── powerbi_dashboard.png
+│
+└── insights
+    └── business_insights.md
